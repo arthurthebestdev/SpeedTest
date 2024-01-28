@@ -22,14 +22,14 @@ To get the application up and running on your local environment, follow these st
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/arthurthebestdev/speedtest.git
+    git clone https://github.com/arthurthebestdev/SpeedTest.git
     ```
 2. **Deploy on Your Web Server:**
     - Copy the cloned repository into your web server's document root directory.
     - Ensure that the server is configured to serve PHP files.
 
 3. **Access the Application:**
-    - Open your web browser and navigate to the location where you deployed the application (e.g., `http://localhost/custom-speed-test`).
+    - Open your web browser and navigate to the location where you deployed the application (e.g., `http://localhost/SpeedTest`).
 
 ## Usage
 
